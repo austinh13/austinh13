@@ -32,7 +32,7 @@ I'm a Computer Science student at the **University of Texas at Dallas** graduati
 
 - 🎓 B.S. Computer Science @ UT Dallas — coursework in Computer Architecture, Discrete Math, Data Structures, Statistics
 - 🛠️ Usual stack: **React** frontends, **Flask/Node.js** backends, deployed on **Vercel** and **Render**
-- 🧠 Comfortable across the stack: system design/UML, ML model training, REST APIs, PDF generation
+- 🧠 Comfortable across the stack: system design/UML, ML model training, REST APIs, and more!
 - 📍 Based near Plano, TX · Eligible to work in the U.S. with no restrictions
 
 <br/>
